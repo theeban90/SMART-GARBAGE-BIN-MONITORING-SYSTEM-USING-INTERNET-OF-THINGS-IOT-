@@ -1,0 +1,26 @@
+		
+
+		wifi settings:
+		
+			ssid or name: iot
+			
+				 pwd: qwertyuiop!
+
+
+
+	
+		website: 
+
+
+			https://thingspeak.com/channels/2128475
+
+
+
+
+
+			
+
+
+
+		
+
